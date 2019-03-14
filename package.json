@@ -1,0 +1,26 @@
+{
+  "name": "lyht",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidluiz4theblue/nodejs-starter.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Hoang Trong Ly",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidluiz4theblue/nodejs-starter/issues"
+  },
+  "homepage": "https://github.com/davidluiz4theblue/nodejs-starter#readme",
+  "dependencies": {
+    "angular": "^1.7.8",
+    "jquery": "^3.3.1"
+  }
+}
