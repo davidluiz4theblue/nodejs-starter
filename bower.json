@@ -1,0 +1,23 @@
+{
+  "name": "lyht",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Hoang Trong Ly"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "nodejs"
+  ],
+  "homepage": "https://github.com/davidluiz4theblue/nodejs-starter",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
